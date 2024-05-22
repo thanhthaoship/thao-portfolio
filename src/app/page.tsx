@@ -64,11 +64,11 @@ export default function Home() {
       date: 'May 20, 2024',
       title: "To Do List",
       link: '/',
-      description: "Managing daily tasks efficiently is essential for productivity. The "To-Do List" website is designed to help users organize, prioritize, and track their tasks through a simple, user-friendly interface. Key features include task creation and management, priority setting, and progress tracking. This project aims to enhance productivity and provide a practical solution for task management, benefiting users in their personal and professional lives."
+      description: "Managing daily tasks efficiently is essential for productivity. The 'To-Do List' website is designed to help users organize, prioritize, and track their tasks through a simple, user-friendly interface. Key features include task creation and management, priority setting, and progress tracking. This project aims to enhance productivity and provide a practical solution for task management, benefiting users in their personal and professional lives."
   }, 
   {
     date: 'December 12, 2023',
-    title: "Support learning of driver's license exams",
+    title: "Nothing",
     link: '/',
     description: "The 'Support Learning of Driver's License Exams' project aims to provide a comprehensive and effective online learning environment for individuals seeking to obtain a driver's license. The primary goal of the project is to help them acquire a solid understanding of theoretical knowledge related to traffic laws and driving regulations. It offers high-quality study materials, practice tests, and reference materials to prepare for driver's license exams."
 }, 
