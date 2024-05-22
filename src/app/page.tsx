@@ -94,6 +94,7 @@ export default function Home() {
                     I’m Cù Thanh Thảo. I live in Ho Chi Minh City, where I code the future.</h1>
                   <div className="leading-7 font-sans mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
                     <p>
+                      
                       In the bustling corridors of my college, amidst the hum of eager minds, I found my place not just through intellect but through my fervent love for coding. 
                       My laptop, adorned with stickers proclaiming my allegiance to Python and Java, became a symbol of my determination and passion. </p>
                     <p>My journey into the world of coding was more than a pursuit of knowledge; it was a deep-seated devotion. From the intricacies of algorithms to the elegance of design patterns, I delved into the realms of code with insatiable curiosity, finding solace and joy in every line I wrote.</p>
